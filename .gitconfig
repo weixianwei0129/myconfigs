@@ -3,9 +3,6 @@
 	ss = status
 [init]
 	defaultBranch = master
-[user]
-	name = xianwei.wei
-	email = weixianwei0129@gmail.com
 [core]
 	autocrlf = false
 	editor = vim
